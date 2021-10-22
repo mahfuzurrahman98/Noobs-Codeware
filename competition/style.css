@@ -1,0 +1,120 @@
+body {
+    background-color: #e2dcdc;
+}
+
+.contain {
+    margin-left: 1.1%;
+    margin-right: 1.1%;
+    margin-bottom: 3%;
+}
+
+.nav-link:hover span {
+    color: white;
+}
+
+.noti {
+    width: 400px;
+    border-radius:  10px;
+}
+
+.session_menu {
+    color: rgb(52, 58, 64);
+}
+
+.session_menu:hover {
+    color: #51A846;
+    text-decoration: none;
+}
+
+.log_out:hover {
+    color: red;
+}
+
+.badge-notify{
+    color: white;
+    background:red;
+    position:relative;
+    top: -15px;
+    left: -25px;
+}
+
+.abt_img {
+    height: 250px;
+    width: 250px;
+}
+
+.image_prof {
+    width: 200px;
+    height: 200px;
+}
+
+.cmnt_image_prof {
+    height: 40px;
+    width: 40px;
+}
+
+.prb_info_tab #tabs {
+    background: #007b5e;
+    color: #eee;
+}
+
+.prb_info_tab #tabs h6.section-title {
+    color: #eee;
+}
+
+.tab_active {
+    color: #387506;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 3px solid !important;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.prb_info_tab .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #067515;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.prb_info_tab .nav-link:hover {
+    border: none;
+}
+
+.prb_info_tab thead {
+    background: #f3f3f3;
+    color: #333;
+}
+
+.prb_info_tab a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+}
+
+.ver-ce {
+    color: #F69939;
+}
+
+.ver-tle {
+    color: #9C4A9A;
+}
+
+.ver-re {
+    color: #3366CC;
+}
+
+.ver-wa {
+    color: #DD442E;
+}
+
+.ver-acc {
+    color: #51A846;
+}
+
+.prb_br {
+    border-radius: 15px;
+}

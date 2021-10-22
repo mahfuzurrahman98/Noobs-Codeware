@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "noob.py", line 1, in <module>
+    t = int(input())
+EOFError: EOF when reading a line
